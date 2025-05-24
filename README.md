@@ -1,1 +1,1 @@
-# awsresponse
+# AWSのレスポンスを確認する
